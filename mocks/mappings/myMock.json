@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/mock"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "myResponse.json"
+  }
+}
